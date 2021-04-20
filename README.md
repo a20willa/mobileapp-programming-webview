@@ -26,10 +26,10 @@ Sist så skapas funktioner som öppnar **WebView**:
     } 
  
 
- - Den interna hemsidan skapades lokalt i appen via en assets
+ - Den interna hemsidan skapades lokalt i appen via en assets folder
  - Dessa öppnas ifrån en meny som kör respektive funktion
 
 Internal:
-![alt text](https://github.com/a20willa/mobileapp-programming-webview/blob/master/Screenshot_1618939009.png)
+![bild1](https://github.com/a20willa/mobileapp-programming-webview/blob/master/Screenshot_1618939009.png)
 External:
-https://github.com/a20willa/mobileapp-programming-webview/blob/master/Screenshot_1618939013.png
+![bild2](https://github.com/a20willa/mobileapp-programming-webview/blob/master/Screenshot_1618939013.png)
